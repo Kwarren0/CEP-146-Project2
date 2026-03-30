@@ -8,5 +8,5 @@
 | Karl Adou      | Yknadou@myseneca.ca  | karl824        |
 | Labeeb Rayan   | lrayan@myseneca.ca   | RyanL246       |
 | Kayden Warren  | kwarren9@myseneca.ca | kwarren0       |
-| Diksha Devi    | ddevi@myseneca.ca    |
-Dikshamyseneca |
+| Diksha Devi    | ddevi@myseneca.ca    | Dikshamyseneca |
+
