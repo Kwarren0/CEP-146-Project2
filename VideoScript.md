@@ -25,7 +25,7 @@ Slide 8 - Conclusion
 In conclusion TraceMap is more than just a tracking tool. It's a system that's quietly working in the background every day to make sure the food supply stays safe for hundreds of millions of people. A couple personal takeaways that I got from researching this programme is that ; AI used in this manner can actually be an extremely reliable resource. And it's always better to prevent a problem than to deal with it after the fact. Hence the the consistent usage of this software 
 
 Slide 9 - Discussion Question
-If pro ai notes that (LEFT) if pro company heads note that (RIGHT)
+If pro ai, note that... (LEFT) if pro company heads, note that... (RIGHT)
 
 
 
