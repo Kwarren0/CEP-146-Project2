@@ -1,3 +1,3 @@
 ## Discussion Question
 
-**Do you think AI systems like TraceMap should be trusted to make decisions about food safety, or should humans always have the final say? Why?** 
+**If TraceMap flags a food product as dangerous but the supplier disagrees. Who should have the final say, the AI , or the heads of the company?** 
