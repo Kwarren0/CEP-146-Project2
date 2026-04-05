@@ -21,7 +21,7 @@ For Example, food fraud and counterfeiting have remained significant challenges 
 **Centralized EU Food Surveillance**: It provides a centralized, AI-driven network accessible to all 27 EU member states, allowing for coordinated responses to food safety incidents.[Food Safety Magazine, 2026]
 **Increased Supply Chain Transparency**: Authorities have clear visibility of product movement from production to consumption, improving Traceability.[European Commission,2026]
 
-## TraceMap Research Notes K.W
+## TraceMap Research Notes 
 
 
 - Uses artificial intelligence and machine learning to detect patterns humans might miss
