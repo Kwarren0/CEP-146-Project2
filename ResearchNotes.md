@@ -21,3 +21,27 @@ For Example, food fraud and counterfeiting have remained significant challenges 
 **Centralized EU Food Surveillance**: It provides a centralized, AI-driven network accessible to all 27 EU member states, allowing for coordinated responses to food safety incidents.[Food Safety Magazine, 2026]
 **Increased Supply Chain Transparency**: Authorities have clear visibility of product movement from production to consumption, improving Traceability.[European Commission,2026]
 
+## TraceMap Research Notes K.W
+
+
+- Uses artificial intelligence and machine learning to detect patterns humans might miss
+- Helps shift food safety systems from reactive to proactive prevention
+- Integrates data from multiple EU systems (RASFF, TRACES) into one platform
+- Can predict potential risks before contamination spreads widely
+- Improves response time during food safety emergencies
+- Identifies suspicious trade behavior (e.g., unusual routes or suppliers)
+- Enhances cross-border collaboration between European countries
+- Reduces economic losses caused by large-scale food recalls
+- Helps fight food fraud and counterfeit products
+- Provides real-time monitoring of supply chain activity
+- Uses data visualization tools (maps, dashboards) for easier decision-making
+- Increases transparency in global food systems
+- Supports government regulation and enforcement
+- Can be adapted as a model system for other countries worldwide
+- Builds consumer confidence in food safety and quality
+
+TraceMap is an AI-powered software platform launched by the European Commission to improve food safety across the European Union. It is primarily used by government authorities, such as food safety officials, to monitor and analyze the food supply chain. The system tracks food products from their origin all the way to consumers, helping detect contamination risks before they spread.
+
+The need for TraceMap arose because modern food supply chains are global and highly interconnected, making them difficult to track manually. There has also been an increase in food-related issues such as fraud (mislabeling and counterfeit products) and contamination (bacteria or chemicals). Older systems were slow and reactive, meaning they responded after problems occurred rather than preventing them. TraceMap was created as a faster, proactive solution using artificial intelligence.
+
+
