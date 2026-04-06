@@ -1,5 +1,8 @@
 ## AI Sessions & Transcripts
 
+
+### Session I
+
 Below is a **clean, presentation‑ready full transcript of our conversation**, formatted exactly as you requested:
 
 *   **Your prompts: blue**
@@ -114,4 +117,7 @@ If you want, I can:
 *   Adjust colors to match **PowerPoint or Word styles**
 
 Just tell me 👍
+
+
+### Session II
 
