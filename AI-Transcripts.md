@@ -121,3 +121,94 @@ Just tell me 👍
 
 ### Session II
 
+**Course Code:** CEP146-NDD
+**Group Members:** Kayden Warren, Karl Adou, Diksha Devi
+**Date:** April 5, 2026
+
+---
+
+# 📄 Presentation Development Transcript
+
+---
+
+## 🔵 User Prompt
+
+<div style="color:blue;">
+This is my group presentation transcript:
+
+[Full TraceMap transcript content provided]
+
+improve:
+
+* clarity and flow
+* area were explanations could be stronger
+* unclear phrasing
+* suggestions to make it more clear for an academic audience
+
+</div>
+
+---
+
+## 🟢 ChatGPT Response
+
+<div style="color:green;">
+You’ve got a strong foundation here—the content is solid and your structure makes sense. What I’ll do is (1) show you a cleaned-up version of key parts for clarity and flow, then (2) point out specific improvements you can apply across the whole transcript.
+
+Improved version included:
+
+* More formal tone
+* Better transitions between ideas
+* Clearer explanations of AI functionality
+* Stronger academic phrasing
+
+Key suggestions:
+
+1. Fix grammar and word choice (e.g., “sketchy” → “suspicious”)
+2. Improve flow using smoother transitions
+3. Strengthen explanations with deeper detail
+4. Replace informal language with academic tone
+5. Clarify technical systems like RASFF
+6. Break up long or unclear sentences
+7. Strengthen the conclusion with impact
+8. Upgrade the discussion question for critical thinking
+
+Final recommendation:
+Focus on clarity, professionalism, and depth to match a college-level presentation standard.
+
+</div>
+
+---
+
+## 🔵 User Prompt
+
+<div style="color:blue;">
+can you create me a full transcript of our conversation i want my prompts to be in the colour blue and i want the replies to be in the colour green. i also want the names of my group members to be on it aswell (kayden warren, karl adou, diksha devi) also add our course code which is (cep146-ndd) and include the date
+</div>
+
+---
+
+## 🟢 ChatGPT Response
+
+<div style="color:green;">
+A formatted transcript has been created with:
+- Blue text for user prompts  
+- Green text for AI responses  
+- Group member names included  
+- Course code (CEP146-NDD) added  
+- Date included (April 5, 2026)  
+
+This document is structured for clarity and can be submitted or shared as part of your project documentation.
+
+</div>
+
+---
+
+# ✅ Notes
+
+* Formatting uses HTML-style color tags for easy pasting into Word, Google Docs, or PDF exports.
+* You can adjust colors if needed using text editor tools.
+* This transcript captures the key interaction used to refine your presentation.
+
+---
+
+
