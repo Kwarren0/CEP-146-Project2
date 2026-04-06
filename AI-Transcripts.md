@@ -21,8 +21,6 @@ Below is a **clean, presentation‑ready full transcript of our conversation**, 
 **Group Members:**
 
 *   Kayden Warren
-*   Labeeb Rayan
-*   Eloisa Lorenzo
 *   Karl Adou
 *   Diksha Devi
 
